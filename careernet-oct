@@ -1,0 +1,405 @@
+<title>The Careernet Group Newsletter</title>
+
+    <style type="text/css">
+        /* Client-specific Resets */
+        html, body { margin: 0 auto !important; height: 100% !important; width: 100% !important; background-color: #F1F5F9; -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+        #outlook a { padding:0; }
+        .ExternalClass { width:100%; }
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+        * { -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: Arial, Inter, Helvetica, sans-serif !important; }
+        div[style*="margin: 16px 0;"] { margin: 0 !important; }
+        table, td { mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; margin: 0; padding: 0; }
+        table { border-spacing: 0 !important; border-collapse: collapse !important; margin: 0 auto !important; }
+        img { -ms-interpolation-mode: bicubic; display: block; border: 0; outline: none; text-decoration: none; width: 100% !important; height: auto !important; }
+        a { text-decoration: none; color: #008CB6; }
+
+        /* Gmail Mobile Font-Boosting & Scaling Fixes */
+        u + #body a {
+            color: inherit;
+            text-decoration: none;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* Mobile Responsive Styles */
+        @media screen and (max-width: 600px) {
+            .gmail-fix {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+            .main-container {
+                width: 100% !important;
+                min-width: 100% !important;
+                border-radius: 0px !important;
+            }
+            .mobile-padding {
+                padding-top: 28px !important;
+                padding-bottom: 28px !important;
+                padding-left: 16px !important;
+                padding-right: 16px !important;
+            }
+            .responsive-column {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                direction: ltr !important;
+                padding-right: 0 !important;
+                padding-left: 0 !important;
+                box-sizing: border-box !important;
+            }
+            .mobile-stack-gap {
+                padding-top: 24px !important;
+            }
+            .mobile-img-wrapper {
+                padding-top: 8px !important;
+                padding-bottom: 16px !important;
+            }
+            img.responsive-img {
+                width: 100% !important;
+                max-width: 100% !important;
+                height: auto !important;
+            }
+            .mobile-title {
+                font-size: 22px !important;
+                line-height: 1.3 !important;
+                margin-bottom: 12px !important;
+            }
+            .mobile-subtitle {
+                font-size: 18px !important;
+                line-height: 1.3 !important;
+                margin-bottom: 16px !important;
+            }
+            .mobile-section-title {
+                font-size: 15px !important;
+                line-height: 1.35 !important;
+                margin-bottom: 16px !important;
+            }
+            .mobile-rec-title {
+                font-size: 15px !important;
+                line-height: 1.3 !important;
+                margin-bottom: 6px !important;
+            }
+        }
+    </style>
+
+    <center style="width: 100%; background-color: #F1F5F9; padding: 0px; margin: 0; font-family: Arial, Inter, Helvetica, sans-serif;">
+        
+        <!-- PREHEADER TEXT -->
+        <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; padding: 0px;">
+            Because the world needs great talent®, we make it happen. Capability is doing the work scale used to: in GCCs, in hiring engines, and beyond.
+        </div>
+
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#F1F5F9" class="gmail-fix" style="background-color: #F1F5F9; padding: 0px; margin: 0; width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+            <tbody><tr>
+                <td align="center" bgcolor="#F1F5F9" style="padding: 0px; margin: 0; background-color: #F1F5F9;">
+                    
+                    <!-- MAIN CONTAINER -->
+                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" align="center" bgcolor="#FFFFFF" class="main-container" style="width: 600px; max-width: 600px; margin: 0 auto; background-color: #FFFFFF; border-radius: 12px; overflow: hidden; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                        
+                        <!-- HERO BANNER -->
+                        <tbody><tr>
+                            <td bgcolor="#FFFFFF" style="background-color: #FFFFFF; padding: 0px; margin: 0;" align="center">
+                                <a href="https://careernet.in/" target="_blank" rel="noopener noreferrer" style="display: block;">
+                                    <img src="https://mycareernet.co/events/wp-content/uploads/2026/08/careernet-group.jpg" width="600" alt="Newsletter Banner" class="responsive-img" style="width: 100%; max-width: 600px; height: auto !important; display: block; border: 0;">
+                                </a>
+                            </td>
+                        </tr>
+
+                        <!-- INTRO SECTION -->
+                        <tr>
+                            <td bgcolor="#FFFFFF" class="mobile-padding" style="padding: 36px 24px 20px 24px; background-color: #FFFFFF;" align="center">
+                                <h1 class="mobile-title" style="margin: 0 0 16px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 24px; line-height: 32px; mso-line-height-rule: exactly; color: #06325E; font-weight: bold; text-align: center;">
+                                    Because the world needs great talent<sup>®</sup>,<br>
+                                    we make it happen.
+                                </h1>
+                                <p style="margin: 0 0 16px 0; font-family: Arial, Inter, Helvetica, sans-serif; text-align: center; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #000000;">
+                                    Capability is doing the work scale used to: in GCCs, in hiring engines, and in the rooms where talent decisions get made. Here is what that shift changes for your next strategy.
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- THIS MONTH'S HIGHLIGHT -->
+                        <tr>
+                            <td bgcolor="#06325E" class="mobile-padding" style="padding: 32px 24px 36px 24px; background-color: #06325E;" align="center">
+
+                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#06325E" style="background-color: #06325E; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                    <tbody>
+                                    <!-- SECTION LABEL -->
+                                    <tr>
+                                        <td align="center" bgcolor="#06325E" style="padding-bottom: 16px;">
+                                            <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 12px; line-height: 16px; mso-line-height-rule: exactly; font-weight: bold; color: #f3b72c; text-transform: uppercase; text-align: center; letter-spacing: 0.5px;">THIS MONTH'S HIGHLIGHT</p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- HIGHLIGHT TITLE -->
+                                    <tr>
+                                        <td align="center" bgcolor="#06325E" style="padding-bottom: 16px;">
+                                            <h2 class="mobile-subtitle" style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 22px; line-height: 30px; mso-line-height-rule: exactly; color: #FFFFFF; font-weight: bold; text-align: center;">The definitive report on India's GCC ecosystem</h2>
+                                        </td>
+                                    </tr>
+                                    
+                                    <!-- HIGHLIGHT IMAGE -->
+                                    <tr>
+                                        <td align="center" bgcolor="#06325E" style="padding-bottom: 16px;">
+                                            <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/Momentum-26.png" width="520" alt="India's GCC Ecosystem Report" class="responsive-img" style="width: 100%; max-width: 520px; height: auto !important; display: block; border: 0; margin: 0 auto;">
+                                        </td>
+                                    </tr>
+
+                                    <!-- HIGHLIGHT TEXT -->
+                                    <tr>
+                                        <td align="center" bgcolor="#06325E" style="padding-bottom: 20px;">
+                                            <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #FFFFFF; text-align: center;">~2,015 GCC entities, ~2.41M professionals, ~134 new GCCs in 2025. Our newest report maps the scale, sector depth, workforce concentration, and formation trends shaping India's next GCC wave.</p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- PRIMARY CTA -->
+                                    <tr>
+                                        <td align="center" bgcolor="#06325E">
+                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="margin: 0 auto !important; border-collapse: separate;">
+                                                <tbody><tr>
+                                                    <td bgcolor="#008CB6" align="center" style="border-radius:32px; background-color: #008CB6; padding: 12px 26px; mso-padding-alt: 12px 26px;">
+                                                        <a href="https://careernet.in/" target="_blank" style="font-family: Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:16px; font-weight:bold; color:#FFFFFF; text-decoration:none; display: inline-block; background-color: #008CB6; text-align: center; letter-spacing: 0.3px;">
+                                                            Get The Report
+                                                        </a>
+                                                    </td>
+                                                </tr></tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                </tbody></table>
+
+                            </td>
+                        </tr>
+
+                        <!-- CUSTOMER SUCCESS STORIES -->
+                        <tr>
+                            <td bgcolor="#FFFFFF" class="mobile-padding" style="padding: 32px 24px; background-color: #FFFFFF;" align="center">
+                                <p style="margin: 0 0 6px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 12px; line-height: 16px; font-weight: bold; color: #008CB6; text-transform: uppercase; text-align: center; letter-spacing: 0.5px;">CUSTOMER SUCCESS STORIES</p>
+                                <h2 class="mobile-subtitle" style="margin: 0 0 24px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 22px; line-height: 30px; mso-line-height-rule: exactly; color: #06325E; font-weight: bold; text-align: center;">
+                                    From insight to execution
+                                </h2>
+
+                                <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="560" bgcolor="#FFFFFF" style="width: 100%; max-width: 560px; background-color: #FFFFFF; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" align="center">
+                                    <tbody><tr>
+                                        <!-- Card 1: IT Services Leader -->
+                                        <td width="270" valign="top" align="left" bgcolor="#FFFFFF" class="responsive-column" style="width: 270px; background-color: #FFFFFF; padding-right: 15px;">
+                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#FFFFFF" style="background-color: #FFFFFF; border-collapse: collapse;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="left" bgcolor="#FFFFFF" style="padding-bottom: 12px; background-color: #FFFFFF;">
+                                                            <img src="https://testing.careernet.ae/wp-content/uploads/2026/03/Making-employability.webp" width="252" alt="AI Interview Scaling" class="responsive-img" style="width: 100%; max-width: 252px; height: auto !important; display: block; border: 0;">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="padding-bottom: 6px;">
+                                                            <h3 style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 16px; line-height: 22px; mso-line-height-rule: exactly; color: #06325E; font-weight: bold; text-align: left;">
+                                                                How to scale to 8,000+ AI interviews with 95%+ accuracy
+                                                            </h3>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="padding-bottom: 14px;">
+                                                            <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; color: #000000; text-align: left;">
+                                                                A global IT services leader achieved it with HirePro across 50+ roles and 10 departments, resulting in 60–80% lower recruiter effort.
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left">
+                                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="left" style="margin-left: 0 !important; margin-right: auto !important; border-collapse: separate;">
+                                                                <tbody><tr>
+                                                                    <td bgcolor="#063563" align="left" style="border-radius:32px; background-color: #063563; padding: 10px 22px; mso-padding-alt: 10px 22px;">
+                                                                        <a href="https://hirepro.in/" target="_blank" style="font-family: Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:16px; font-weight:bold; color:#FFFFFF; text-decoration:none; display: inline-block; background-color: #063563; text-align: center;">
+                                                                            See The Strategy
+                                                                        </a>
+                                                                    </td>
+                                                                </tr></tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                        <!-- Card 2: Fortune 500 CX Leader -->
+                                        <td width="270" valign="top" align="left" bgcolor="#FFFFFF" class="responsive-column mobile-stack-gap" style="width: 270px; background-color: #FFFFFF; padding-left: 15px;">
+                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#FFFFFF" style="background-color: #FFFFFF; border-collapse: collapse;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="left" bgcolor="#FFFFFF" style="padding-bottom: 12px; background-color: #FFFFFF;">
+                                                            <img src="https://testing.careernet.ae/wp-content/uploads/2025/06/careernet-contact-us-media.webp" width="252" alt="Remote Assessments Scale" class="responsive-img" style="width: 100% !important; max-width: 252px; height: auto !important; display: block; border: 0;">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="padding-bottom: 6px;">
+                                                            <h3 style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 16px; line-height: 22px; mso-line-height-rule: exactly; color: #06325E; font-weight: bold; text-align: left;">
+                                                                A global CX leader saw a 3.3× jump in remote assessments
+                                                            </h3>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="padding-bottom: 14px;">
+                                                            <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; color: #000000; text-align: left;">
+                                                                The Fortune 500 company scaled remote assessments multifold in three years, with 90%+ faster execution and 90%+ lower per-candidate assessment costs.
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left">
+                                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="left" style="margin-left: 0 !important; margin-right: auto !important; border-collapse: separate;">
+                                                                <tbody><tr>
+                                                                    <td bgcolor="#063563" align="left" style="border-radius:32px; background-color: #063563; padding: 10px 22px; mso-padding-alt: 10px 22px;">
+                                                                        <a href="https://hirepro.in/" target="_blank" style="font-family: Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:16px; font-weight:bold; color:#FFFFFF; text-decoration:none; display: inline-block; background-color: #063563; text-align: center;">
+                                                                            Read Case Study
+                                                                        </a>
+                                                                    </td>
+                                                                </tr></tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+
+                        <!-- TALENT ENGAGEMENT -->
+                        <tr>
+                            <td bgcolor="#06325E" class="mobile-padding" style="padding: 32px 24px; background-color: #06325E;" align="center">
+                                <p style="margin: 0 0 6px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 12px; line-height: 16px; font-weight: bold; color: #f3b72c; text-transform: uppercase; text-align: center; letter-spacing: 0.5px;">TALENT ENGAGEMENT</p>
+                                <h2 class="mobile-subtitle" style="margin: 0 0 20px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 22px; line-height: 30px; mso-line-height-rule: exactly; color: #FFFFFF; font-weight: bold; text-align: center;">
+                                    Grab, Wayfair, Arm, and Ensemble met the right talent
+                                </h2>
+
+                                <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="560" bgcolor="#06325E" style="width: 100%; max-width: 560px; background-color: #06325E; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" align="center">
+                                    <tbody><tr>
+                                        <!-- Column 1: Image -->
+                                        <td width="240" valign="middle" align="center" bgcolor="#06325E" class="responsive-column mobile-img-wrapper" style="width: 240px; background-color: #06325E; padding-right: 20px;">
+                                            <img src="https://testing.careernet.ae/wp-content/uploads/2026/09/We-are-careernet.png" width="240" alt="Talent Engagement Events" class="responsive-img" style="width: 100%; max-width: 240px; height: auto !important; display: block; border: 0; margin: 0 auto;">
+                                        </td>
+                                        <!-- Column 2: Text -->
+                                        <td width="300" valign="middle" align="left" bgcolor="#06325E" class="responsive-column" style="width: 300px; background-color: #06325E;">
+                                            <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #FFFFFF; text-align: left;">
+                                                As their Talent Engagement Partner, MyCareernet powered multiple tech events all around September and early October. From Grab AI DevX Connect’s India debut to Wayfair AI Nexus 2026 and Arm's "billion-chip AI blueprint" in Bengaluru to Ensemble Health Partners' first tech meetup in Hyderabad.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+
+                        <!-- LEADERSHIP IN THE NOW -->
+                        <tr>
+                            <td bgcolor="#FFFFFF" class="mobile-padding" style="padding: 32px 24px; background-color: #FFFFFF;" align="center">
+                                <p style="margin: 0 0 6px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 12px; line-height: 16px; font-weight: bold; color: #008CB6; text-transform: uppercase; text-align: center; letter-spacing: 0.5px;">LEADERSHIP IN THE NOW</p>
+                                <h2 class="mobile-subtitle" style="margin: 0 0 20px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 22px; line-height: 30px; mso-line-height-rule: exactly; color: #06325E; font-weight: bold; text-align: center;">
+                                    All-IITs' Placement Committee weighs in on AI-powered evaluation
+                                </h2>
+
+                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" align="center" bgcolor="#FFFFFF" style="background-color: #FFFFFF; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                    <tbody><tr>
+                                        <td align="center" bgcolor="#FFFFFF" style="background-color: #FFFFFF;">
+                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="560" style="width: 100%; max-width: 560px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                                <tbody><tr style="font-size: 0px; line-height: 0px;">
+                                                    <td width="4" bgcolor="#008CB6" valign="top" style="width: 4px !important; min-width: 4px !important; max-width: 4px !important; background-color: #008CB6; border-radius: 4px; padding: 0; margin: 0; font-size: 0px; line-height: 0px; height: 100%;">
+                                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="4" height="100%" style="width: 4px !important; border-collapse: collapse;">
+                                                            <tbody><tr>
+                                                                <td width="4" bgcolor="#008CB6" style="width: 4px !important; background-color: #008CB6; border-radius: 4px; font-size: 0px; line-height: 0px;">&nbsp;</td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                    <td width="16" style="width: 16px !important; min-width: 16px !important; font-size: 0px; line-height: 0px;">&nbsp;</td>
+                                                    <td align="left" valign="top" style="font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly;">
+                                                        <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #000000;">
+                                                            Last month at IIT Guwahati, India's most influential placement body explored student assessment readiness to AI-powered proctoring with us.
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+
+                        <!-- TALENT INTELLIGENCE -->
+                        <tr>
+                            <td bgcolor="#F1F5F9" class="mobile-padding" style="padding: 32px 24px; background-color: #F1F5F9;" align="center">
+                                <p style="margin: 0 0 6px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 12px; line-height: 16px; font-weight: bold; color: #008CB6; text-transform: uppercase; text-align: center; letter-spacing: 0.5px;">TALENT INTELLIGENCE</p>
+                                <h2 class="mobile-subtitle" style="margin: 0 0 16px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 20px; line-height: 28px; mso-line-height-rule: exactly; text-align: center; color: #06325E; font-weight: bold;">
+                                    The AI model is 10% of the job; the other 90% is what gets candidates hired
+                                </h2>
+
+                                <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="560" bgcolor="#F1F5F9" style="width: 100%; max-width: 560px; background-color: #F1F5F9; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" align="center">
+                                    <tbody><tr>
+                                        <!-- Column 1: Image -->
+                                        <td width="220" valign="middle" align="center" bgcolor="#F1F5F9" class="responsive-column mobile-img-wrapper" style="width: 220px; background-color: #F1F5F9; padding-right: 20px;">
+                                            <img src="https://testing.careernet.ae/wp-content/uploads/2026/09/We-are-careernet.png" width="200" alt="Podcast Parikshit Nag" class="responsive-img" style="width: 100%; max-width: 200px; height: auto !important; display: block; border: 0; margin: 0 auto; ">
+                                        </td>
+                                        <!-- Column 2: Text -->
+                                        <td width="320" valign="middle" align="left" bgcolor="#F1F5F9" class="responsive-column" style="width: 320px; background-color: #F1F5F9;">
+                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="left" style="padding-bottom: 16px;">
+                                                            <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #000000; text-align: left;">
+                                                                ABB's Group Head of AI and Machine Learning, Parikshit Nag, breaks down why he screens candidates on what trade-offs they made and what impact they actually drove.
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left">
+                                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="left" style="margin-left: 0 !important; margin-right: auto !important; border-collapse: separate;">
+                                                                <tbody><tr>
+                                                                    <td bgcolor="#06325E" align="left" style="border-radius:32px; background-color: #06325E; padding: 10px 22px; mso-padding-alt: 10px 22px;">
+                                                                        <a href="https://careernet.in/" target="_blank" style="font-family: Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:16px; font-weight:bold; color:#FFFFFF; text-decoration:none; display: inline-block; background-color: #06325E; text-align: center;">
+                                                                            Tune In to the Podcast
+                                                                        </a>
+                                                                    </td>
+                                                                </tr></tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+
+                        <!-- FOOTER -->
+                        <tr>
+                            <td bgcolor="#06325E" style="padding: 24px 20px; background-color: #06325E; border-top: 1px solid #008CB6;" align="center">
+                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#06325E" style="background-color: #06325E; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                    <tbody><tr>
+                                        <td bgcolor="#06325E" style="padding: 0 12px; background-color: #06325E;">
+                                            <a href="https://www.linkedin.com/company/careernet-consulting/" target="_blank" style="display: block;">
+                                                <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/linkedin.png" width="24" height="24" alt="LinkedIn" style="width: 24px !important; height: 24px !important; display: block; border: 0;">
+                                            </a>
+                                        </td>
+                                        <td bgcolor="#06325E" style="padding: 0 12px; background-color: #06325E;">
+                                            <a href="https://www.youtube.com/channel/UCcZeB6yJjvS4LlL1cO3KL-g" target="_blank" style="display: block;">
+                                                <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/youtube.png" width="24" height="24" alt="YouTube" style="width: 24px !important; height: 24px !important; display: block; border: 0;">
+                                            </a>
+                                        </td>
+                                        <td bgcolor="#06325E" style="padding: 0 12px; background-color: #06325E;">
+                                            <a href="https://careernet.in/" target="_blank" style="display: block;">
+                                                <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/website.png" width="24" height="24" alt="Website" style="width: 24px !important; height: 24px !important; display: block; border: 0;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+
+                    </tbody></table>
+
+                </td>
+            </tr>
+        </tbody></table>
+    </center>
